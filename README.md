@@ -1,4 +1,4 @@
-## Olá! Eu sou o Guilherme Dos Santos Silva ✌️
+## Olá! Eu sou o Guilherme ✌️
  <div>
   <a href="https://github.com/GuilhermeSSx">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeSSx&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
