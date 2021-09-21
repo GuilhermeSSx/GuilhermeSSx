@@ -6,6 +6,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gui-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img align="center" alt="Gui-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Gui-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Gui-Pic" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/46b1c01e-a363-4948-bdbb-d46f49a9fc15/de4rurl-9fa22496-9316-4929-80fb-1ba4fc4af714.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQ2YjFjMDFlLWEzNjMtNDk0OC1iZGJiLWQ0NmY0OWE5ZmMxNVwvZGU0cnVybC05ZmEyMjQ5Ni05MzE2LTQ5MjktODBmYi0xYmE0ZmM0YWY3MTQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.FoyZ1-udNQEp1ueI5o4jqk-2320BA6TAfmDskt0o_h8">
 </div>
