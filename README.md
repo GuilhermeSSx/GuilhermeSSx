@@ -13,7 +13,6 @@
   
   <a href="https://github.com/GuilhermeSSx">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeSSx&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img align="right" alt="Gui-Pic" src="https://uploads.spiritfanfiction.com/usuarios/assinaturas/yugi_muto-615906,200120152351.gif">
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
